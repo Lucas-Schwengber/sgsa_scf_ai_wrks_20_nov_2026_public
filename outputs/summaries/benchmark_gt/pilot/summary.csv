@@ -1,0 +1,6 @@
+case,fd_zero_flux_err_finest,fd_zero_flux_order_last,fd_exact_neumann_err_finest,fd_exact_neumann_order_last,galerkin_inf_err_Kmax,galerkin_n100_best_K,galerkin_n100_best_median_err,galerkin_centred_n100_best_K,galerkin_centred_n100_best_median_err,galerkin_n1000_best_K,galerkin_n1000_best_median_err,galerkin_centred_n1000_best_K,galerkin_centred_n1000_best_median_err,galerkin_n10000_best_K,galerkin_n10000_best_median_err,galerkin_centred_n10000_best_K,galerkin_centred_n10000_best_median_err,galerkin_n100000_best_K,galerkin_n100000_best_median_err,galerkin_centred_n100000_best_K,galerkin_centred_n100000_best_median_err
+gauss_mu,0.00148,0.0003905,5.242e-07,2.001,6.449e-16,1,0.1046,1,0.1046,1,0.02923,1,0.02923,1,0.007185,1,0.007185,1,0.002643,1,0.002643
+gauss_sigma,0.007036,0.0003027,9.31e-07,2.001,6.782e-16,2,0.3105,2,0.3105,2,0.09805,2,0.09805,2,0.03466,2,0.03466,2,0.0106,2,0.0106
+gauss_sin,0.0004585,0.0002136,5.579e-07,2.009,2.426e-06,3,0.1436,3,0.1422,3,0.05752,3,0.0575,6,0.01774,6,0.01778,8,0.005641,8,0.005641
+gamma_shape,0.002449,0.003878,4.294e-05,1.91,0.00308,2,0.1679,2,0.1679,3,0.08397,3,0.0856,4,0.03761,4,0.03752,6,0.01713,6,0.01707
+gamma_scale,0.006842,7.071e-05,6.716e-06,1.956,5.771e-13,2,0.168,2,0.168,2,0.06012,2,0.06012,2,0.02386,2,0.02386,2,0.006978,2,0.006978
